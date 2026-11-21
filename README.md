@@ -20,6 +20,7 @@ I enjoy designing distributed systems, developing microservices, building REST A
 ### Frontend Development
 - React.js
 - JavaScript
+- TypeScript
 - HTML5 / CSS3
 - Bootstrap
 
