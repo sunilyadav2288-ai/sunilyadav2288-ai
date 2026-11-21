@@ -47,6 +47,18 @@ I enjoy designing distributed systems, developing microservices, building REST A
 - LLM Integration
 - GitHub Copilot
 - Cursor AI
+ 
+## ⚙️ DevOps & CI/CD
+
+- Azure DevOps Pipelines (YAML)
+- TeamCity
+- CI/CD Automation
+- Build & Release Management
+- Docker & Kubernetes
+- AWS Deployment
+- Azure Cloud Deployment
+- Automated Testing
+- Infrastructure as Code (Terraform)
 
 ## 💻 Featured Projects
 
@@ -68,6 +80,24 @@ pgvector, embeddings, and local LLMs.
 
 - LinkedIn: Add your LinkedIn profile URL
 - GitHub: https://github.com/sunilyadav2288-ai
+
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilyadav2288-ai&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilyadav2288-ai&layout=compact&theme=tokyonight)
+
+## 🛠️ Technology Stack
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 ⭐ Always learning, building, and exploring new technologies.
